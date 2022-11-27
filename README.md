@@ -2,5 +2,4 @@ Projects get dropped here for storage. Many were created in Jupyter Notebooks or
 
 This repository is only my "at home" or "learning" work. 
 
-## __**It does not contain any of my FOUO or Classified work.**__
-###### (That's the majority of my work...and that code is much prettier.)
+## __**It does not contain the majority of my work...and that code is much prettier.)**__
